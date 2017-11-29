@@ -1,0 +1,7 @@
+{
+  "name": "iot-crypt",
+  "keywords": "esp, RSA, cryptography",
+  "description": "Cryptography library",
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}

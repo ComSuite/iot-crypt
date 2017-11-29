@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For ComSuiteIoT
+# Use TAB to seperate identifiers
+#         and KEYWORD specifiers!
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+mbedtls_rsa_init
+mbedtls_rsa_set_padding
+mbedtls_rsa_gen_key
+mbedtls_rsa_check_pubkey
+mbedtls_rsa_check_privkey
+mbedtls_rsa_check_pub_priv
+mbedtls_rsa_public
+mbedtls_rsa_private
+mbedtls_rsa_pkcs1_encrypt
+mbedtls_rsa_pkcs1_decrypt
+mbedtls_rsa_copy
+mbedtls_rsa_free
+mbedtls_rsa_self_test
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
